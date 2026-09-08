@@ -3,8 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="EXO2/EXO2.vcxproj" />
-  <Project Path="EXO3/EXO3.vcxproj" />
-  <Project Path="EXO4/EXO4.vcxproj" />
-  <Project Path="TP0/TP0.vcxproj" />
+  <Folder Name="/Éléments de solution/" />
+  <Project Path="EXO2/EXO2.vcxproj" Id="248d34ec-2271-41df-be25-de1957882d47" />
+  <Project Path="EXO3/EXO3.vcxproj" Id="a3ced64d-5d52-47d3-8a43-448e1a991f75" />
+  <Project Path="EXO4/EXO4.vcxproj" Id="2b926d88-a6f3-4a88-b104-1613d57a7eec" />
+  <Project Path="EXO5/EXO5.vcxproj" Id="cfe7e64b-7513-4db9-b8f6-3781d3c55f21" />
+  <Project Path="TP0/TP0.vcxproj" Id="443b227c-3da5-42e9-aa10-c2d57560b11d" />
 </Solution>
